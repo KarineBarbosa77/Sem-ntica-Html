@@ -1,0 +1,5 @@
+body {
+    width: 80vw;/*80% da view port width Largura*/
+    margin: auto; /*Define a margem automática (mesmo valor para ambos os "lados")*/
+    
+}
